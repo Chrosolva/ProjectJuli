@@ -1,0 +1,12 @@
+c:\users\gunaw\onedrive\documents\visual studio 2015\Projects\ModernDesign\ModernDesign\bin\Debug\ModernDesign.exe.config
+c:\users\gunaw\onedrive\documents\visual studio 2015\Projects\ModernDesign\ModernDesign\bin\Debug\ModernDesign.exe
+c:\users\gunaw\onedrive\documents\visual studio 2015\Projects\ModernDesign\ModernDesign\bin\Debug\ModernDesign.pdb
+c:\users\gunaw\onedrive\documents\visual studio 2015\Projects\ModernDesign\ModernDesign\bin\Debug\Guna.UI.dll
+c:\users\gunaw\onedrive\documents\visual studio 2015\Projects\ModernDesign\ModernDesign\bin\Debug\XanderUI.dll
+c:\users\gunaw\onedrive\documents\visual studio 2015\Projects\ModernDesign\ModernDesign\obj\Debug\ModernDesign.Form1.resources
+c:\users\gunaw\onedrive\documents\visual studio 2015\Projects\ModernDesign\ModernDesign\obj\Debug\ModernDesign.Properties.Resources.resources
+c:\users\gunaw\onedrive\documents\visual studio 2015\Projects\ModernDesign\ModernDesign\obj\Debug\ModernDesign.csproj.GenerateResource.Cache
+c:\users\gunaw\onedrive\documents\visual studio 2015\Projects\ModernDesign\ModernDesign\obj\Debug\ModernDesign.exe
+c:\users\gunaw\onedrive\documents\visual studio 2015\Projects\ModernDesign\ModernDesign\obj\Debug\ModernDesign.pdb
+C:\Users\gunaw\onedrive\documents\visual studio 2015\Projects\ModernDesign\ModernDesign\obj\Debug\ModernDesign.Item_Card.resources
+C:\Users\gunaw\onedrive\documents\visual studio 2015\Projects\ModernDesign\ModernDesign\obj\Debug\ModernDesign.csprojResolveAssemblyReference.cache

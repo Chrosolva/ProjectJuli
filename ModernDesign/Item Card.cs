@@ -37,7 +37,7 @@ namespace ModernDesign
         {
             this.lblNama.Text = this.Name;
             this.lblPrice.Text = "Rp. " + this.price.ToString();
-            this.CardImage.Image = Image.FromFile(imagepath);
+            //this.CardImage.Image = Image.FromFile("@");
             this.lblDesc.Text = this.desc;
         }
     }
